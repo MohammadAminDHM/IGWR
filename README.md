@@ -1,1 +1,1 @@
-# IGWR
+# IGWR(Image Generation With Reflection)
