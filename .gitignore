@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+generation_logs.jsonl
 
 # C extensions
 *.so
