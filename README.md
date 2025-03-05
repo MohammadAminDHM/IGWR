@@ -74,22 +74,22 @@ First-person view of a mythical French world—enchanted castles, floating garde
 ```
 
 **GPT 4.5 Preview(model_name = gpt-4.5-preview)**
-![Mythical French World](generated_images\gpt-4.5-preview.png)
+![Mythical French World](generated_images/gpt-4.5-preview.png)
 
 **GPT 4.5 Preview(model_name = gpt-4.5-preview-2025-02-27)**
-![Mythical French World](generated_images\gpt-4.5-preview-2025-02-27.png)
+![Mythical French World](generated_images/gpt-4.5-preview-2025-02-27.png)
 
 **Claude 3.7 Sonnet(model_name = anthropic.claude-3-7-sonnet-20250219-v1:0)**
-![Mythical French World](generated_images\anthropic.claude-3-7-sonnet-20250219-v1.png)
+![Mythical French World](generated_images/anthropic.claude-3-7-sonnet-20250219-v1.png)
 
 **Claude 3.7 Sonnet(model_name = anthropic.claude-3-5-sonnet-20241022-v2:0)**
-![Mythical French World](generated_images\anthropic.claude-3-5-sonnet-20241022-v2.png)
+![Mythical French World](generated_images/anthropic.claude-3-5-sonnet-20241022-v2.png)
 
 **Llama 3.3 70B(model_name = meta.llama3-3-70b-instruct-v1)**
-![Mythical French World](generated_images\meta.llama3-3-70b-instruct-v1.png)
+![Mythical French World](generated_images/meta.llama3-3-70b-instruct-v1.png)
 
 **Mistral Large(model_name = mistral.mistral-large-2407-v1)**
-![Mythical French World](generated_images\mistral.mistral-large-2407-v1.png)
+![Mythical French World](generated_images/mistral.mistral-large-2407-v1.png)
 
 
 ## Logging
